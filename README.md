@@ -12,7 +12,7 @@ T H E M E – I N D I V I D U A L E N T E R T A I N E R A N A L Y S I S
 
 <img width="1063" alt="Dashboard 2" src="https://user-images.githubusercontent.com/71639295/183278483-bbaa76d3-9bf9-4084-aa52-952a10836685.png">
 
-D A S H B O A R D 3
+## D A S H B O A R D 3
 T H E M E – E N T E R T A I N E R S W I T H M O S T O S C A R S , G R A M M Y , E M M Y A N D O T H E R A W A R D S .
 
 <img width="1061" alt="Dashboard 3" src="https://user-images.githubusercontent.com/71639295/183278510-964968ef-c402-470b-8b98-80388dfbaa0d.png">
